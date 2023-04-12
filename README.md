@@ -1,10 +1,10 @@
-## Hi there! 👋
+## Hi there! 👋👨🏻‍💻
 
-### 🏗️ i'm doing some work on the site ⚠️👷‍♂️
-
-
+#### 🏗️ i'm doing some work on the site ⚠️👷‍♂️
 
 
+
+### ⚒️ Technologies and tools
 
 <!--
 **OcroDev/ocrodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
