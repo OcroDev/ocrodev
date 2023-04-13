@@ -31,7 +31,61 @@ const OcroDevLearning = {
   code: [Jest, Sass, Express, Tailwind],
 }
 ```
+👾  ***What I am interested in learning at some point***
+```javascript
+const OcroDevLearning = {
+  code: [Firebase, GraphQL, React Native],
+}
+```
 
+
+## 🔬 Quick view of my repositories 
+
+<details>
+###  <summary> JavaScript </summary>
+</details>
+
+<details>
+  <summary> Next </summary>
+  
+  ##### *Projects*
+  
+</details>
+
+<details>
+  <summary> Logic Challenges </summary>
+  
+  ##### *Company Challenges*
+  
+  ##### *JavaScript*
+  
+</details>
+
+<details>
+  <summary> Python </summary>
+  
+  ##### *Projects*
+</details>
+    
+<details>
+  <summary> React </summary>
+  
+  ##### *Projects*
+  
+  ##### *Technical test*
+</details>
+
+<details>
+  <summary> Upwork </summary>
+  
+  #### *Technical test*
+  
+</details>
+
+<details>
+  <summary> Web Scrappers </summary> 
+  
+  **BCV Scrapper**
 <!--
 **OcroDev/ocrodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
