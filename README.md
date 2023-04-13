@@ -71,21 +71,25 @@ const OcroDevLearning = {
   <summary> React </summary>
   
   ##### *Projects*
+  1. [Tic-Tac-Toe](https://github.com/OcroDev/tic-tac-toe_react_project)
   
   ##### *Technical test*
+  1. [Litle E-comerce](https://github.com/OcroDev/little_ecomerse_react_technical_test)
+  
 </details>
 
 <details>
   <summary> Upwork </summary>
   
-  #### *Technical test*
+  ##### *Technical test*
   
 </details>
 
 <details>
   <summary> Web Scrappers </summary> 
   
-  **BCV Scrapper**
+  1. [XKCD Scraper](https://github.com/OcroDev/xkcd-quick-scraper_web_scraper)
+  2. [BCV Scraper](https://github.com/OcroDev/bcv-scraper_web_scraper)
 <!--
 **OcroDev/ocrodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
