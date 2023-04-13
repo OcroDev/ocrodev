@@ -66,7 +66,7 @@ const OcroDevLearning = {
   
   ##### *Technical test*
   
-  1. [*Event Manager*](https://github.com/OcroDev/event-manager_technical_test/settings)
+  1. [*Event Manager*](https://github.com/OcroDev/event-manager_technical_test)
   
   ##### *Project*
   
