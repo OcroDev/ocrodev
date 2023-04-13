@@ -83,6 +83,7 @@ const OcroDevLearning = {
   
   ##### *Technical test*
   1. [*Litle E-comerce*](https://github.com/OcroDev/little_ecomerse_react_technical_test)
+  2. [*Rick & Morty*](https://github.com/OcroDev/rick-morty-context_react_technical_test)
   
 </details>
 
