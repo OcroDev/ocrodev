@@ -49,6 +49,9 @@ const OcroDevLearning = {
   <summary> Next </summary>
   
   ##### *Projects*
+  1. [*Stock System QR*](https://github.com/OcroDev/stock-system-qr_NextJs_Project)
+  
+  ##### *Technical test*
   
 </details>
 
@@ -80,6 +83,7 @@ const OcroDevLearning = {
   
   ##### *Projects*
   1. [*Tic-Tac-Toe*](https://github.com/OcroDev/tic-tac-toe_react_project)
+  2. [*Todo List using ReduxToolkit*](https://github.com/OcroDev/todo-list-redux-toolkit_react_projects)
   
   ##### *Technical test*
   1. [*Litle E-comerce*](https://github.com/OcroDev/little_ecomerse_react_technical_test)
