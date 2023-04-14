@@ -54,11 +54,15 @@ const OcroDevWillLearn = {
 </details>
 
 <details>
-  <summary> Logic Challenges <img src='https://icon-library.com/images/computer-code-icon/computer-code-icon-14.jpg'  height='18' width='18' /> </summary>
+  <summary> React <img src='https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png' height='24' width='24' /> </summary>
   
-  ##### *Company Challenges*
+  ##### *Projects*
+  1. [*Tic-Tac-Toe*](https://github.com/OcroDev/tic-tac-toe_react_project)
+  2. [*Todo List using ReduxToolkit*](https://github.com/OcroDev/todo-list-redux-toolkit_react_projects)
   
-  ##### *JavaScript*
+  ##### *Technical test*
+  1. [*Litle E-comerce*](https://github.com/OcroDev/little_ecomerse_react_technical_test)
+  2. [*Rick & Morty*](https://github.com/OcroDev/rick-morty-context_react_technical_test)
   
 </details>
 
@@ -76,23 +80,19 @@ const OcroDevWillLearn = {
 </details>
     
 <details>
-  <summary> React <img src='https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png' height='24' width='24' /> </summary>
-  
-  ##### *Projects*
-  1. [*Tic-Tac-Toe*](https://github.com/OcroDev/tic-tac-toe_react_project)
-  2. [*Todo List using ReduxToolkit*](https://github.com/OcroDev/todo-list-redux-toolkit_react_projects)
-  
-  ##### *Technical test*
-  1. [*Litle E-comerce*](https://github.com/OcroDev/little_ecomerse_react_technical_test)
-  2. [*Rick & Morty*](https://github.com/OcroDev/rick-morty-context_react_technical_test)
-  
-</details>
-
-<details>
   <summary> Upwork <img src="https://www.citypng.com/public/uploads/small/11662555971udurdbf0uniifutgcylp1gud40ihnfb7ciqdmowfhrxifaxga54ydmoj81r2cxpxsdcuchjqxjuf2is7a3vdgwiq78fx3tvgcf4u.png" height='18' width='18' /></summary>
   
   ##### *Technical test*
   1. [*Landing page*](https://github.com/OcroDev/landing-page_Upwork_technical_test)
+  
+</details>
+
+<details>
+  <summary> Logic Challenges <img src='https://icon-library.com/images/computer-code-icon/computer-code-icon-14.jpg'  height='18' width='18' /> </summary>
+  
+  ##### *Company Challenges*
+  
+  ##### *JavaScript*
   
 </details>
 
