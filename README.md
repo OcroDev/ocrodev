@@ -6,7 +6,8 @@
 ```javascript
 const OcroDev = {
   pronouns: "he" | "him",
-  whoIAm: "I'm *Junior Web Developer*"
+  whoIAm: "I'm *Junior Web Developer*",
+  languagesLvl: [{Spanish: 'Native'}, {English:'Basic'}]
 }
 ```
 
@@ -17,7 +18,7 @@ const OcroDev = {
 💾 ***Actually know***
 
 ```javascript
-const OcroDev = {
+const OcroDevSkills = {
   code: [Javascript ES6, Typescript, HTML, CSS, SQL],
   tools: [React, ReduxToolkit, NextJs, NodeJs, Express, PostgreSql, Mongodb, Sequelize, Mongoose, Eslint, Git],
   challenge: "I'm doing the 'retosdeprogramacion.com' challenges focused on JavaScript and TypeScript"
@@ -33,7 +34,7 @@ const OcroDevLearning = {
 ```
 👾  ***What I am interested in learning at some point***
 ```javascript
-const OcroDevLearning = {
+const OcroDevWillLearn = {
   code: [Firebase, GraphQL, React Native],
 }
 ```
@@ -42,7 +43,7 @@ const OcroDevLearning = {
 ## 🔬 Quick view of my repositories 
 
 <details>
-  <summary> NextJs <img src='https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi' height='17' width='17' /> </summary>
+  <summary> NextJs <img src='https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi' height='18' width='18' /> </summary>
   
   ##### *Projects*
   1. [*Stock System QR*](https://github.com/OcroDev/stock-system-qr_NextJs_Project)
@@ -53,7 +54,7 @@ const OcroDevLearning = {
 </details>
 
 <details>
-  <summary> Logic Challenges </summary>
+  <summary> Logic Challenges <img src='https://icon-library.com/images/computer-code-icon/computer-code-icon-14.jpg'  height='18' width='18' /> </summary>
   
   ##### *Company Challenges*
   
@@ -64,19 +65,18 @@ const OcroDevLearning = {
 <details>
   <summary> Django <img src='https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.10.0/1645525785595/Microsoft.VisualStudio.Services.Icons.Default' height='16' width='16' /></summary>
   
+  ##### *Projects*
+  
+  1. [Pildoras blog](https://github.com/OcroDev/pil-blog_django_project)
+  
   ##### *Technical test*
   
   1. [*Event Manager*](https://github.com/OcroDev/event-manager_technical_test)
   
-  ##### *Project*
-  
-  1. [Pildoras blog](https://github.com/OcroDev/pil-blog_django_project)
-  
-  ##### *Projects*
 </details>
     
 <details>
-  <summary> React </summary>
+  <summary> React <img src='https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png' height='24' width='24' /> </summary>
   
   ##### *Projects*
   1. [*Tic-Tac-Toe*](https://github.com/OcroDev/tic-tac-toe_react_project)
@@ -101,6 +101,11 @@ const OcroDevLearning = {
   
   1. [*XKCD Scraper*](https://github.com/OcroDev/xkcd-quick-scraper_web_scraper)
   2. [*BCV Scraper*](https://github.com/OcroDev/bcv-scraper_web_scraper)
+
+  
+  
+
+  
 <!--
 **OcroDev/ocrodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
