@@ -1,5 +1,3 @@
-# 🏗️ ~~*i'm doing some work on the site*~~ ⚠️👷‍♂️
-
 # *Hi there! I'm Rohermy Ochoa* 👋👨🏻‍💻
 
 ## A litle about me 🧔🏻‍♂️
