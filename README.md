@@ -42,16 +42,13 @@ const OcroDevLearning = {
 ## 🔬 Quick view of my repositories 
 
 <details>
-###  <summary> JavaScript </summary>
-</details>
-
-<details>
-  <summary> Next </summary>
+  <summary> NextJs <img src='https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi' height='17' width='17' /> </summary>
   
   ##### *Projects*
   1. [*Stock System QR*](https://github.com/OcroDev/stock-system-qr_NextJs_Project)
   
   ##### *Technical test*
+  1. [*xkcd comics*](https://github.com/OcroDev/xkcd-comic_NextJs_technical_test)
   
 </details>
 
@@ -92,7 +89,7 @@ const OcroDevLearning = {
 </details>
 
 <details>
-  <summary> Upwork <img src="https://scontent-bog1-1.cdninstagram.com/v/t51.2885-19/181285074_238483928029091_5162407865909021734_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-bog1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=-GCSQ6H6_uoAX9cjM1_&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBXHVlcUBNLlVMGBENEpuKh7HxWWTJ7-bgMQqDDG9XKDA&oe=643DAB81&_nc_sid=8fd12b" height='16' width='16'/></summary>
+  <summary> Upwork <img src="https://www.citypng.com/public/uploads/small/11662555971udurdbf0uniifutgcylp1gud40ihnfb7ciqdmowfhrxifaxga54ydmoj81r2cxpxsdcuchjqxjuf2is7a3vdgwiq78fx3tvgcf4u.png" height='18' width='18' /></summary>
   
   ##### *Technical test*
   1. [*Landing page*](https://github.com/OcroDev/landing-page_Upwork_technical_test)
@@ -100,7 +97,7 @@ const OcroDevLearning = {
 </details>
 
 <details>
-  <summary> Web Scrappers <img src='https://png.pngtree.com/png-vector/20190319/ourmid/pngtree-vector-web-icon-png-image_847779.jpg' height='16' width='16' /> </summary> 
+  <summary> Web Scrappers <img src='https://www.freepnglogos.com/uploads/logo-website-png/logo-website-coopera-web-design-12.png' height='18' width='18' /> </summary> 
   
   1. [*XKCD Scraper*](https://github.com/OcroDev/xkcd-quick-scraper_web_scraper)
   2. [*BCV Scraper*](https://github.com/OcroDev/bcv-scraper_web_scraper)
