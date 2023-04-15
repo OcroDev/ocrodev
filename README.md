@@ -65,6 +65,8 @@ const OcroDevWillLearn = {
   ##### *Technical test*
   1. [*Litle E-comerce*](https://github.com/OcroDev/little_ecomerse_react_technical_test)
   2. [*Rick & Morty*](https://github.com/OcroDev/rick-morty-context_react_technical_test)
+  3. [*Movie search*](https://github.com/OcroDev/movie-search_react_technical_test)
+  4. [*Fact Cats*](https://github.com/OcroDev/fact_cats_react_technical_test)
   
 </details>
 
@@ -93,8 +95,20 @@ const OcroDevWillLearn = {
   <summary> Logic Challenges <img src='https://icon-library.com/images/computer-code-icon/computer-code-icon-14.jpg'  height='18' width='18' /> </summary>
   
   ##### *Company Challenges*
+  1. *Uber*
+     * [*Fare stimator*](https://github.com/OcroDev/company_logic_challenges/tree/main/Uber/00_Fare_Estimator)
+     * [*Perfect city*](https://github.com/OcroDev/company_logic_challenges/tree/main/Uber/01_Perfect_City)
+     * [*Fancy Ride*](https://github.com/OcroDev/company_logic_challenges/tree/main/Uber/02_Fancy_Ride)
   
   ##### *JavaScript*
+  1. [*Fizz Buzz*](https://github.com/OcroDev/javascript_logic_challenges/tree/main/00_Fizz_Buzz)
+  2. [*Hacker Language*](https://github.com/OcroDev/javascript_logic_challenges/tree/main/01_Hacker_Language)
+  3. [*Password Generator*](https://github.com/OcroDev/javascript_logic_challenges/tree/main/03_Password_Generator)
+  4. [*Primo Fibonacci Par*](https://github.com/OcroDev/javascript_logic_challenges/tree/main/04_Primo_Fibonacci_Par)
+  5. [*Pseudoaleatorios*](https://github.com/OcroDev/javascript_logic_challenges/tree/main/05_Pseudoaleatorios)
+  6. [*Palindrome Word*](https://github.com/OcroDev/javascript_logic_challenges/tree/main/06_Palindrome_Word)
+  7. [*Adjacent Element Product*](https://github.com/OcroDev/javascript_logic_challenges/tree/main/07_Adjacent_Element_Product)
+  8. [*Almost Increasing Sequence*](https://github.com/OcroDev/javascript_logic_challenges/tree/main/08_Almost_Increasing_Sequence)
   
 </details>
 
