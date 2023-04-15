@@ -8,6 +8,10 @@ const OcroDev = {
   languagesLvl: [{Spanish: 'Native'}, {English:'Basic'}]
 }
 ```
+| <img src='https://icon-library.com/images/cv-icon/cv-icon-4.jpg' height='48' width='48' /> | [*English 💾*](https://drive.google.com/file/d/16cjoXnIJAcG5kP59H_VFiv6zzTh-k8xe/view?usp=share_link) | [*Español 💾*](https://drive.google.com/file/d/1PgWYV77wBvaikBX_gVG5HTiV8KC4odPj/view?usp=share_link) |
+|----------|----------|----------|
+
+
 
 ## ⚒️ Technologies and tools
 
@@ -36,7 +40,6 @@ const OcroDevWillLearn = {
   code: [Firebase, GraphQL, React Native],
 }
 ```
-
 
 ## 🔬 Quick view of my repositories 
 
