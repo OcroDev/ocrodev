@@ -67,7 +67,8 @@ const OcroDevWillLearn = {
   2. [*Rick & Morty*](https://github.com/OcroDev/rick-morty-context_react_technical_test)
   3. [*Movie search*](https://github.com/OcroDev/movie-search_react_technical_test)
   4. [*Fact Cats*](https://github.com/OcroDev/fact_cats_react_technical_test)
-  
+  ##### *TS Projects*
+  1. [*Twitter follow card*](https://github.com/OcroDev/twitter-card_react_TS_projects) (*working on*)  
 </details>
 
 <details>
