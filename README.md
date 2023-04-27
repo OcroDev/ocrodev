@@ -46,11 +46,13 @@ const OcroDevWillLearn = {
 <details>
   <summary> NextJs <img src='https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi' height='18' width='18' /> </summary>
   
-  ##### *Projects*
-  1. [*Stock System QR*](https://github.com/OcroDev/stock-system-qr_NextJs_Project)
+  | *Projects* |||
+  |----------|----------|----------|
+  |*Stock System QR*|[*code*](https://github.com/OcroDev/stock-system-qr_NextJs_Project)|[*view*](https://system-qr-inventory.vercel.app/)|
   
-  ##### *Technical test*
-  1. [*xkcd comics*](https://github.com/OcroDev/xkcd-comic_NextJs_technical_test)
+  |*Technical test*|||
+  |----------|----------|----------|
+  |*xkcd comics*|[*code*](https://github.com/OcroDev/xkcd-comic_NextJs_technical_test)|[*view*](https://xkcd-app-black.vercel.app/)|
   
 </details>
 
