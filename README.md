@@ -85,13 +85,13 @@ const OcroDevWillLearn = {
 <details>
   <summary> Django <img src='https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.10.0/1645525785595/Microsoft.VisualStudio.Services.Icons.Default' height='16' width='16' /></summary>
   
-  ##### *Projects*
+ |*Projects*|||
+ |----------|----------|----------|
+ |*Pildoras blog*|[*code*](https://github.com/OcroDev/pil-blog_django_project)|*view*|
   
-  1. [Pildoras blog](https://github.com/OcroDev/pil-blog_django_project)
-  
-  ##### *Technical test*
-  
-  1. [*Event Manager*](https://github.com/OcroDev/event-manager_technical_test)
+  |*Technical test*|||
+  |----------|----------|----------|
+  |*Event Manager*|[*code*](https://github.com/OcroDev/event-manager_technical_test)|*view*|
   
 </details>
     
