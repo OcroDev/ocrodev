@@ -72,7 +72,7 @@ const OcroDevWillLearn = {
   |*Movie search*|[*Code*](https://github.com/OcroDev/movie-search_react_technical_test)|*view*|
   |*Fact Cats*|[*Code*](https://github.com/OcroDev/fact_cats_react_technical_test)|*view*|
   
-  #### *TypeScript*
+  #### *TypeScript* <img src='https://cdn.changelog.com/uploads/icons/topics/YXL/icon_large.png?v=63682389432' height='16' width='16'/>
   
   | *Projects* |||
   |----------|----------|----------|
