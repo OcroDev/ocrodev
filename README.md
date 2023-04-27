@@ -57,7 +57,7 @@ const OcroDevWillLearn = {
 <details>
   <summary> React <img src='https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png' height='24' width='24' /> </summary>
   
-  #### *Javascript*
+  #### *Javascript* <img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' height='16' width='16' />
   
   | *Projects* |||
   |----------|----------|----------|
