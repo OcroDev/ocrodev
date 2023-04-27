@@ -57,17 +57,27 @@ const OcroDevWillLearn = {
 <details>
   <summary> React <img src='https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png' height='24' width='24' /> </summary>
   
-  ##### *Projects*
-  1. [*Tic-Tac-Toe*](https://github.com/OcroDev/tic-tac-toe_react_project)
-  2. [*Todo List using ReduxToolkit*](https://github.com/OcroDev/todo-list-redux-toolkit_react_projects)
-  3. [*Building a React router*](https://github.com/OcroDev/router_react-projects)
-  ##### *Technical test*
-  1. [*Litle E-comerce*](https://github.com/OcroDev/little_ecomerse_react_technical_test)
-  2. [*Rick & Morty*](https://github.com/OcroDev/rick-morty-context_react_technical_test)
-  3. [*Movie search*](https://github.com/OcroDev/movie-search_react_technical_test)
-  4. [*Fact Cats*](https://github.com/OcroDev/fact_cats_react_technical_test)
-  ##### *TS Projects*
-  1. [*Twitter follow card*](https://github.com/OcroDev/twitter-card_react_TS_projects) (*working on*)  
+  #### *Javascript*
+  
+  | *Projects* |||
+  |----------|----------|----------|
+  |*Tic-Tac-Toe*|[*Code*](https://github.com/OcroDev/tic-tac-toe_react_project)|*view*|
+  |*Todo List using ReduxToolkit*|[*Code*](https://github.com/OcroDev/todo-list-redux-toolkit_react_projects)|*view*|
+  |*Building a React router*|[*Code*](https://github.com/OcroDev/router_react-projects)|*view*|
+  
+  |  *Technicals test*  |||
+  |----------|----------|----------|
+  |*Litle E-comerce*|[*Code*](https://github.com/OcroDev/little_ecomerse_react_technical_test)|*view*|
+  |*Rick & Morty*|[*Code*](https://github.com/OcroDev/rick-morty-context_react_technical_test)|*view*|
+  |*Movie search*|[*Code*](https://github.com/OcroDev/movie-search_react_technical_test)|*view*|
+  |*Fact Cats*|[*Code*](https://github.com/OcroDev/fact_cats_react_technical_test)|*view*|
+  
+  #### *TypeScript*
+  
+  | *Projects* |||
+  |----------|----------|----------|
+  |*Twitter follow card*|[*code*](https://github.com/OcroDev/twitter-card_react_TS_projects) (*working on*)|[*view*](https://twitter-card-react-ts-projects.vercel.app/)|  
+  
 </details>
 
 <details>
