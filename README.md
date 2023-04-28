@@ -63,8 +63,8 @@ const OcroDevWillLearn = {
   
   | *Projects* |||
   |----------|----------|----------|
-  |*Tic-Tac-Toe*|[*Code*](https://github.com/OcroDev/tic-tac-toe_react_project)|*view*|
-  |*Todo List using ReduxToolkit*|[*Code*](https://github.com/OcroDev/todo-list-redux-toolkit_react_projects)|*view*|
+  |*Tic-Tac-Toe*|[*Code*](https://github.com/OcroDev/tic-tac-toe_react_project)|[*view*](https://tic-tac-toe-react-project-lac.vercel.app/)|
+  |*Todo List using ReduxToolkit*|[*Code*](https://github.com/OcroDev/todo-list-redux-toolkit_react_projects)|[*view*](https://todo-list-redux-toolkit-react-projects.vercel.app/login)|
   |*Building a React router*|[*Code*](https://github.com/OcroDev/router_react-projects)|*view*|
   
   |  *Technicals test*  |||
@@ -89,9 +89,9 @@ const OcroDevWillLearn = {
  |----------|----------|----------|
  |*Pildoras blog*|[*code*](https://github.com/OcroDev/pil-blog_django_project)|*view*|
   
-  |*Technical test*|||
-  |----------|----------|----------|
-  |*Event Manager*|[*code*](https://github.com/OcroDev/event-manager_technical_test)|*view*|
+ |*Technical test*|||
+ |----------|----------|----------|
+ |*Event Manager*|[*code*](https://github.com/OcroDev/event-manager_technical_test)|*view*|
   
 </details>
     
