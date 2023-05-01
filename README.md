@@ -70,7 +70,7 @@ const OcroDevWillLearn = {
   |  *Technicals test*  |||
   |----------|----------|----------|
   |*Litle E-comerce*|[*Code*](https://github.com/OcroDev/little_ecomerse_react_technical_test)|[*view*](https://little-ecomerse-react-technical-test.vercel.app/)|
-  |*Rick & Morty*|[*Code*](https://github.com/OcroDev/rick-morty-context_react_technical_test)|*view*|
+  |*Rick & Morty*|[*Code*](https://github.com/OcroDev/rick-morty-context_react_technical_test)|[*view*](https://rick-morty-context-react-technical-test.vercel.app/)|
   |*Movie search*|[*Code*](https://github.com/OcroDev/movie-search_react_technical_test)|*view*|
   |*Fact Cats*|[*Code*](https://github.com/OcroDev/fact_cats_react_technical_test)|*view*|
   
