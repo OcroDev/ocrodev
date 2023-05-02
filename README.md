@@ -78,7 +78,7 @@ const OcroDevWillLearn = {
   
   | *Projects* |||
   |----------|----------|----------|
-  |*Twitter follow card*|[*code*](https://github.com/OcroDev/twitter-card_react_TS_projects) (*working on*)|[*view*](https://twitter-card-react-ts-projects.vercel.app/)|  
+  |*Twitter follow card*|[*code*](https://github.com/OcroDev/twitter-card_react_TS_projects)|[*view*](https://twitter-card-react-ts-projects.vercel.app/)|  
   
 </details>
 
