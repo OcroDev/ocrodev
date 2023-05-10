@@ -46,13 +46,13 @@ const OcroDevWillLearn = {
 <details>
   <summary> NextJs <img src='https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi' height='18' width='18' /> </summary>
   
-  | *Projects* |||
+  | *Projects* |*code*|*web*|
   |----------|----------|----------|
-  |*Stock System QR*|[*code*](https://github.com/OcroDev/stock-system-qr_NextJs_Project)|[*view*](https://system-qr-inventory.vercel.app/)|
+  |*Stock System QR*|[*view*](https://github.com/OcroDev/stock-system-qr_NextJs_Project)|[*visit*](https://system-qr-inventory.vercel.app/)|
   
-  |*Technical test*|||
+  |*Technical test*|*code*|*web*|
   |----------|----------|----------|
-  |*xkcd comics*|[*code*](https://github.com/OcroDev/xkcd-comic_NextJs_technical_test)|[*view*](https://xkcd-app-black.vercel.app/)|
+  |*xkcd comics*|[*view*](https://github.com/OcroDev/xkcd-comic_NextJs_technical_test)|[*visit*](https://xkcd-app-black.vercel.app/)|
   
 </details>
 
@@ -61,22 +61,22 @@ const OcroDevWillLearn = {
   
   #### *Javascript* <img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' height='16' width='16' />
   
-  | *Projects* |||
+  | *Projects* |*code*|*view*|
   |----------|----------|----------|
-  |*Tic-Tac-Toe*|[*Code*](https://github.com/OcroDev/tic-tac-toe_react_project)|[*view*](https://tic-tac-toe-react-project-lac.vercel.app/)|
-  |*Todo List using ReduxToolkit*|[*Code*](https://github.com/OcroDev/todo-list-redux-toolkit_react_projects)|[*view*](https://todo-list-redux-toolkit-react-projects.vercel.app/login)|
-  |*Building a React router*|[*Code*](https://github.com/OcroDev/router_react-projects)|*view*|
+  |*Tic-Tac-Toe*|[*view*](https://github.com/OcroDev/tic-tac-toe_react_project)|[*visit*](https://tic-tac-toe-react-project-lac.vercel.app/)|
+  |*Todo List using ReduxToolkit*|[*view*](https://github.com/OcroDev/todo-list-redux-toolkit_react_projects)|[*visit*](https://todo-list-redux-toolkit-react-projects.vercel.app/login)|
+  |*Building a React router*|[*view*](https://github.com/OcroDev/router_react-projects)|*visit*|
   
-  |  *Technicals test*  |||
+  |  *Technicals test*  |*code*|*view*|
   |----------|----------|----------|
-  |*Litle E-comerce*|[*Code*](https://github.com/OcroDev/little_ecomerse_react_technical_test)|[*view*](https://little-ecomerse-react-technical-test.vercel.app/)|
-  |*Rick & Morty*|[*Code*](https://github.com/OcroDev/rick-morty-context_react_technical_test)|[*view*](https://rick-morty-context-react-technical-test.vercel.app/)|
-  |*Movie search*|[*Code*](https://github.com/OcroDev/movie-search_react_technical_test)|[*view*](https://movie-search-react-technical-test.vercel.app/)|
-  |*Fact Cats*|[*Code*](https://github.com/OcroDev/fact_cats_react_technical_test)|[*view*](https://fact-cats-react-technical-test.vercel.app/)|
+  |*Litle E-comerce*|[*view*](https://github.com/OcroDev/little_ecomerse_react_technical_test)|[*visit*](https://little-ecomerse-react-technical-test.vercel.app/)|
+  |*Rick & Morty*|[*view*](https://github.com/OcroDev/rick-morty-context_react_technical_test)|[*visit*](https://rick-morty-context-react-technical-test.vercel.app/)|
+  |*Movie search*|[*view*](https://github.com/OcroDev/movie-search_react_technical_test)|[*visit*](https://movie-search-react-technical-test.vercel.app/)|
+  |*Fact Cats*|[*view*](https://github.com/OcroDev/fact_cats_react_technical_test)|[*visit*](https://fact-cats-react-technical-test.vercel.app/)|
   
   #### *TypeScript* <img src='https://cdn.changelog.com/uploads/icons/topics/YXL/icon_large.png?v=63682389432' height='16' width='16'/>
   
-  | *Projects* |||
+  | *Projects* |*code*|*web*|
   |----------|----------|----------|
   |*Twitter follow card*|[*code*](https://github.com/OcroDev/twitter-card_react_TS_projects)|[*view*](https://twitter-card-react-ts-projects.vercel.app/)|  
   
@@ -85,7 +85,7 @@ const OcroDevWillLearn = {
 <details>
   <summary> Django <img src='https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.10.0/1645525785595/Microsoft.VisualStudio.Services.Icons.Default' height='16' width='16' /></summary>
   
- |*Projects*|||
+ |*Projects*|*code*|*web*|
  |----------|----------|----------|
  |*Pildoras blog*|[*code*](https://github.com/OcroDev/pil-blog_django_project)|*view*|
   
