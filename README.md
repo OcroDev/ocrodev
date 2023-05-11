@@ -125,7 +125,7 @@ const OcroDevWillLearn = {
 </details>
 
 <details>
-  <summary> Web Scrappers <img src='https://www.freepnglogos.com/uploads/logo-website-png/logo-website-coopera-web-design-12.png' height='18' width='18' /> </summary> 
+  <summary> Web Scrapping <img src='https://www.freepnglogos.com/uploads/logo-website-png/logo-website-coopera-web-design-12.png' height='18' width='18' /> </summary> 
   
   1. [*XKCD Scraper*](https://github.com/OcroDev/xkcd-quick-scraper_web_scraper)
   2. [*BCV Scraper*](https://github.com/OcroDev/bcv-scraper_web_scraper)
