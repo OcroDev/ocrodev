@@ -66,7 +66,7 @@ const OcroDevWillLearn = {
   |*Tic-Tac-Toe*|[*view*](https://github.com/OcroDev/tic-tac-toe_react_project)|[*visit*](https://tic-tac-toe-react-project-lac.vercel.app/)|
   |*Todo List using ReduxToolkit*|[*view*](https://github.com/OcroDev/todo-list-redux-toolkit_react_projects)|[*visit*](https://todo-list-redux-toolkit-react-projects.vercel.app/login)|
   |*Building a React router*|[*view*](https://github.com/OcroDev/router_react-projects)|*visit*|
-  |*Weather App*|[*view*](https://github.com/OcroDev/weather-app_react_project)|[*visit*](https://weather-app-react-project-eight.vercel.app/) App in development |
+  |*Weather App*|[*view*](https://github.com/OcroDev/weather-app_react_project)|[*visit*](https://weather-app-react-project-roheoo.vercel.app/) App in development |
   
   |  *Technicals test*  |*code*|*view*|
   |----------|----------|----------|
