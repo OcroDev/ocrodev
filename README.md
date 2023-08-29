@@ -22,7 +22,7 @@ const OcroDev = {
 ```javascript
 const OcroDevSkills = {
   code: [Javascript ES6, Typescript, HTML, CSS, SQL],
-  tools: [React, ReduxToolkit, NextJs, NodeJs, Express, PostgreSql, Mongodb, Sequelize, Mongoose, Eslint, Git],
+  tools: [React, ReduxToolkit, NextJs, NodeJs, Express, PostgreSql, Mongodb, Sequelize, Mongoose, Eslint, Git, Tailwind, Express],
   challenge: "I'm doing the 'retosdeprogramacion.com' challenges focused on JavaScript and TypeScript"
 }
 ```
@@ -31,13 +31,13 @@ const OcroDevSkills = {
 
 ```javascript
 const OcroDevLearning = {
-  code: [Jest, Sass, Express, Tailwind],
+  code: [Jest, Sass, React Native],
 }
 ```
 👾  ***What I am interested in learning at some point***
 ```javascript
 const OcroDevWillLearn = {
-  code: [Firebase, GraphQL, React Native],
+  code: [Firebase, GraphQL],
 }
 ```
 
