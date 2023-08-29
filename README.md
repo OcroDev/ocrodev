@@ -4,7 +4,7 @@
 ```javascript
 const OcroDev = {
   pronouns: "he" | "him",
-  whoIAm: "I'm *Junior Web Developer*",
+  whoIAm: "I'm *Web Developer*",
   languagesLvl: [{Spanish: 'Native'}, {English:'Basic'}],
 }
 ```
