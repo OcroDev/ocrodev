@@ -33,13 +33,13 @@ const OcroDevSkills = {
 
 ```javascript
 const OcroDevLearning = {
-  code: [Jest, Sass, React Native],
+  code: [Jest, React Native, GraphQL],
 }
 ```
 👾  ***What I am interested in learning at some point***
 ```javascript
 const OcroDevWillLearn = {
-  code: [Firebase, GraphQL],
+  code: [.Net, Astro],
 }
 ```
 
