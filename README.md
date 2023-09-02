@@ -21,9 +21,9 @@ const OcroDev = {
 
 ```javascript
 const OcroDevSkills = {
-  code: [Javascript ES6, Typescript, HTML, CSS3, SQL, NoSQL],
+  code: [Javascript ES6, Typescript, HTML, CSS3, SQL, NoSQL, Python],
   tools: [React, ReduxToolkit, NextJs, NodeJs, Express, PostgreSql,
-          Mongodb, Sequelize, Mongoose, Eslint, Git, Tailwind],
+          Mongodb, Sequelize, Mongoose, Eslint, Git, Tailwind], Django]
 
   challenge: "I'm doing the 'retosdeprogramacion.com' challenges focused on JavaScript and TypeScript"
 }
