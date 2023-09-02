@@ -21,7 +21,7 @@ const OcroDev = {
 
 ```javascript
 const OcroDevSkills = {
-  code: [Javascript ES6, Typescript, HTML, CSS, SQL],
+  code: [Javascript ES6, Typescript, HTML, CSS3, SQL, NoSQL],
   tools: [React, ReduxToolkit, NextJs, NodeJs, Express, PostgreSql,
           Mongodb, Sequelize, Mongoose, Eslint, Git, Tailwind],
 
