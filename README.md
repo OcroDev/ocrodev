@@ -10,7 +10,7 @@ const OcroDev = {
 ```
 | <img src='https://icon-library.com/images/cv-icon/cv-icon-4.jpg' height='48' width='48' /> | [*English 💾*](https://drive.google.com/file/d/1PgWYV77wBvaikBX_gVG5HTiV8KC4odPj/view?usp=share_link) | [*Español 💾*](https://drive.google.com/file/d/16cjoXnIJAcG5kP59H_VFiv6zzTh-k8xe/view?usp=share_link) 
 |----------|----------|----------|
-| **Contact me:** |  ***rohermy.ochoa@gmail.com*** <img src='https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png' alt='e-mail: rohermy.ochoa@gmail.com' height='16' width='22' /> | [***Linkedin***](https://www.linkedin.com/in/rohermy-ochoa/) <img src='https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png' alt='rohermy ochoa linkedin profile' height='32' width='32' /> |
+| **Contact me:** |  ***ocrodev@gmail.com*** <img src='https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png' alt='e-mail: rohermy.ochoa@gmail.com' height='16' width='22' /> | [***Linkedin***](https://www.linkedin.com/in/rohermy-ochoa/) <img src='https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png' alt='rohermy ochoa linkedin profile' height='32' width='32' /> |
 
 
 ## ⚒️ Technologies and tools
