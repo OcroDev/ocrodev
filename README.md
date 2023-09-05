@@ -86,6 +86,18 @@ const OcroDevWillLearn = {
 </details>
 
 <details>
+  <summary> Web Layouts Components <img src='https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png' height='24' width='24' /> </summary>
+
+  |*Projects*|*code*|*web*|
+  |----------|----------|----------|
+  |*Login Component*|[*code*](https://github.com/OcroDev/login-signup-component)|[*view*](#)|
+  |*QR-Code Component*|[*code*](https://github.com/OcroDev/qr-code-component)|[*view*](#)|
+  |*Summary Component*|[*code*](https://github.com/OcroDev/summary-component)|[*view*](#)|
+  |*Testimonials Grid Component*|[*code*](https://github.com/OcroDev/testimonial-grid-component)|[*view*](#)|
+
+</details>
+
+<details>
   <summary> Django <img src='https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.10.0/1645525785595/Microsoft.VisualStudio.Services.Icons.Default' height='16' width='16' /></summary>
   
  |*Projects*|*code*|*web*|
