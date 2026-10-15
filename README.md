@@ -97,7 +97,7 @@ const rohermy: Developer = {
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **[Diamante Express](https://diamanteexpress.app)** | Delivery / courier / ride platform for a real operator — client app, driver app and operations panel. Backend + panel built end-to-end. | NestJS · Supabase (PostgreSQL + PostGIS) · React + Vite · Flutter · Google Maps · Firebase · GitHub Actions |
+| **Delivery, Courier & Ride Platform** | Platform for a regional operator (private client) — client app, driver app and operations panel. Backend + panel built end-to-end. | NestJS · Supabase (PostgreSQL + PostGIS) · React + Vite · Flutter · Google Maps · Firebase · GitHub Actions |
 
 > *Some client projects are private — happy to walk through the architecture on request.*
 
